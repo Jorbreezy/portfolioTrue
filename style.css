@@ -11,9 +11,9 @@ body{
       color: rgba(0,0,0,0.6);
       font-family: "Trebuchet MS";
   }
-  
-  img {
-    width: 200px;
+
+  .image{
+    width: 300px;
   }
   
   .contact{
