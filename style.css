@@ -13,9 +13,18 @@ body{
   }
 
   .image{
-    width: 300px;
+    width: 300px !important;
+    height: 145px !important;
   }
-  
+
+  body{
+    padding-top: 50px;
+  }
+
+  .green{
+    border-radius: 100px;
+  }
+
   .contact{
       background:#333333;
       color:#f4f4f4;
