@@ -12,6 +12,10 @@ body{
       font-family: "Trebuchet MS";
   }
 
+  .lister{
+    list-style-type: none;
+  }
+
   .image{
     width: 300px !important;
     height: 145px !important;
